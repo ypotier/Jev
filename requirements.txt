@@ -1,0 +1,4 @@
+typesafe-sdk>=0.5.7
+scikit-learn>=1.5
+numpy>=1.26
+matplotlib>=3.8
